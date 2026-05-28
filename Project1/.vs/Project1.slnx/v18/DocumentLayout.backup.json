@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\employee\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\employee\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,12 +31,80 @@
       "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\shared\\_invalidrequestpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\shared\\_invalidrequestpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\filters\\ajaxonlyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\filters\\ajaxonlyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\project1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\project1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\shared\\_productdetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\shared\\_productdetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\shared\\components\\topproducts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\shared\\components\\topproducts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\viewcomponents\\topproductsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\viewcomponents\\topproductsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\controllers\\viewcomponentinmvccontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\controllers\\viewcomponentinmvccontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|d:\\girishuiux\\test_projects\\learningprojects\\asp_net_mvc_learning_projects\\project1\\project1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{836E8338-EB20-C0C5-33B3-EB9D83DFD68E}|Project1\\Project1.csproj|solutionrelative:project1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,19 +123,312 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Project1\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Project1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T08:44:23.709Z",
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Employee\\Success.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Employee\\Success.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Employee\\Success.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Employee\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T05:17:00.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T05:11:34.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwDQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T04:49:46.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Project1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Project1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA9wBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T04:47:22.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Project1\\Models\\Employee.cs",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Models\\Employee.cs",
+              "RelativeToolTip": "Project1\\Models\\Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T04:42:21.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_InvalidRequestPartialView.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\_InvalidRequestPartialView.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Shared\\_InvalidRequestPartialView.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\_InvalidRequestPartialView.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Shared\\_InvalidRequestPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T11:08:05.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AjaxOnlyAttribute.cs",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Filters\\AjaxOnlyAttribute.cs",
+              "RelativeDocumentMoniker": "Project1\\Filters\\AjaxOnlyAttribute.cs",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Filters\\AjaxOnlyAttribute.cs",
+              "RelativeToolTip": "Project1\\Filters\\AjaxOnlyAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T10:56:27.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T08:43:51.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T05:54:52.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T05:56:24.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:44:23.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\Components\\TopProducts\\Default.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Shared\\Components\\TopProducts\\Default.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\Components\\TopProducts\\Default.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Shared\\Components\\TopProducts\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T09:13:10.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T08:44:02.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project1.csproj",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Project1.csproj",
+              "RelativeDocumentMoniker": "Project1\\Project1.csproj",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Project1.csproj",
+              "RelativeToolTip": "Project1\\Project1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-25T10:56:17.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Project1\\Services\\ProductService.cs",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Services\\ProductService.cs",
+              "RelativeToolTip": "Project1\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:59:03.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ProductDetailsPartialView.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\_ProductDetailsPartialView.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Shared\\_ProductDetailsPartialView.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\_ProductDetailsPartialView.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Shared\\_ProductDetailsPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T10:47:10.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewComponentInMVCController1.cs",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Controllers\\ViewComponentInMVCController1.cs",
+              "RelativeDocumentMoniker": "Project1\\Controllers\\ViewComponentInMVCController1.cs",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Controllers\\ViewComponentInMVCController1.cs",
+              "RelativeToolTip": "Project1\\Controllers\\ViewComponentInMVCController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:55:56.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TopProductsViewComponent.cs",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\ViewComponents\\TopProductsViewComponent.cs",
+              "RelativeDocumentMoniker": "Project1\\ViewComponents\\TopProductsViewComponent.cs",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\ViewComponents\\TopProductsViewComponent.cs",
+              "RelativeToolTip": "Project1\\ViewComponents\\TopProductsViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:08:09.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Project1\\Models\\Product.cs",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Models\\Product.cs",
+              "RelativeToolTip": "Project1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:55:32.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T05:56:11.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Project1\\Services\\IProductService.cs",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Services\\IProductService.cs",
+              "RelativeToolTip": "Project1\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:57:47.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Project1\\Program.cs",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Program.cs",
+              "RelativeToolTip": "Project1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:16:14.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:30:34.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:29:33.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Project1\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Project1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:21:16.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\appsettings.json",
               "RelativeDocumentMoniker": "Project1\\appsettings.json",
@@ -55,34 +436,7 @@
               "RelativeToolTip": "Project1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-25T08:44:16.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Project1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Project1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T08:44:02.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\GirishUIUX\\Test_Projects\\LearningProjects\\ASP_NET_MVC_Learning_Projects\\Project1\\Project1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Project1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T08:43:51.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T08:44:16.571Z"
             }
           ]
         }
